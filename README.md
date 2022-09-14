@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 
-<img align="right" width="400" src="https://uploads.toptal.io/blog/image/92578/toptal-blog-image-1464707278877-5d257339eb6b911f3a32f772da07f6f0.gif"/>
+<img align="center" width="1000" height="400" src="https://uploads.toptal.io/blog/image/92578/toptal-blog-image-1464707278877-5d257339eb6b911f3a32f772da07f6f0.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetamakadi123&label=Profile%20views&color=0e75b6&style=flat" alt="geetamakadi123" /> </p>
 
