@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **geetamakadi123/geetamakadi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gitanjali Makadi</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
 
+<h1 align="center">Hi 👋, I'm Gitanjali Makadi</h1>
+<h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Gitanjali+Makadi!;Java+Back-end+Developer...;" style="width: 100%;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetamakadi123&label=Profile%20views&color=0e75b6&style=flat" alt="geetamakadi123" /> </p>
