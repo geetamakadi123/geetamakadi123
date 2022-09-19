@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1nkUU3dvUl3Bn3ikpzEE_gnZJX0c5rdG_/view?usp=sharing](https://drive.google.com/file/d/1nkUU3dvUl3Bn3ikpzEE_gnZJX0c5rdG_/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://geetamakadi123.github.io/)
+-📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xojlZMiGobriojZow-qj1S_u2jyk85sV/view?usp=sharing)
 
 - 💬 Ask me about **Java,Javascript**
 
