@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **ggmakadi1997@gmail.com**
- - 📫 How to reach me **https://www.linkedin.com/in/gitanjali-m-36157a233/**
+ - 📫 How to reach me **[Gitanjali Makadi](https://www.linkedin.com/in/gitanjali-m-36157a233/).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
